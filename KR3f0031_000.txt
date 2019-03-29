@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 數學
-#+DATE: 2019-03-29 21:09:45.375705
+#+DATE: 2019-03-29 21:09:45.476818
 #+PROPERTY: ID KR3f0031
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3f0031_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部六¶
